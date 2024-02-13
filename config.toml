@@ -1,5 +1,5 @@
 title = "Travel around the world"
-baseURL = "https://7-travel.dev"
+baseURL = "https://7-travel.de"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
