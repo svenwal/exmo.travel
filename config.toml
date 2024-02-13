@@ -19,7 +19,7 @@ enableRobotsTXT = true
   [languages.de]
     title = "7-travel.de"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/de"
 
 [sitemap]
   changefreq = "monthly"

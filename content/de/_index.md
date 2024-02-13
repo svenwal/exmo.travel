@@ -1,8 +1,10 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Wir reisen um die Welt"
 
-description: "Le dernier thème dont vous aurez besoin. Peut-être"
+description: "Unsere Reisen, unsere Abenteuer, unsere Geschichten"
+# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
+theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/abenteuer_allrad_lou.jpeg'
 ---
-Bienvenue sur mon blog à propos de mon travail du moment. Je travaille sur une idée de livre. Vous pouvez lire quelques chapitres plus bas.
+Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
