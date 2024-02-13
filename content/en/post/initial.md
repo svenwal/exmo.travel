@@ -1,8 +1,8 @@
 ---
-date: 2024-02-13T18:25:05-04:00
+date: 2024-02-10T18:25:05-04:00
 description: "More soon..."
 featured_image: "/images/abenteuer_allrad_lou.jpeg"
-tags: []
+tags: ["truck"]
 title: "More to come..."
 disable_share: false
 ---
