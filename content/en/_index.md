@@ -1,10 +1,10 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "We travel around the world"
 
-description: "The last theme you'll ever need. Maybe."
+description: "Our travel blog is a collection of stories, photos, and videos from our adventures around the world. We hope you enjoy reading about our travels as much as we enjoy sharing them with you."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/abenteuer_allrad_lou.jpeg'
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
