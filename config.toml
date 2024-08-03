@@ -37,14 +37,14 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-  name = "YouTube"
+  name = "youtube"
   url = "https://www.youtube.com/@exmo-travel"
 [[params.ananke_socials]]
-  name = "Instagram"
+  name = "instagram"
   url = "https://www.instagram.com/exmo.travel/"
 [[params.ananke_socials]]
-  name = "Mastodon"
+  name = "mastodon"
   url = "https://mastodon.cloud/@exmotravel"
 [[params.ananke_socials]]
-  name = "Facebook"
+  name = "facebook"
   url = "https://www.facebook.com/people/Exmotravel/61563591726442/"
