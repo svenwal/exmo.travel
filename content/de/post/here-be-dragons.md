@@ -7,4 +7,3 @@ title: "Hier kommt mehr"
 ---
 
 Noch ist hier nichts zu sehen, aber das wird sich bald ändern.
-```

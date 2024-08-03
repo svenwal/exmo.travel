@@ -4,22 +4,22 @@ languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "exmo.travel"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
   [languages.de]
     title = "exmo.travel"
-    weight = 2
+    weight = 1
     contentDir = "content/de"
+  [languages.en]
+    title = "exmo.travel"
+    weight = 2
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]
   changefreq = "monthly"
