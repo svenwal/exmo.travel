@@ -6,4 +6,4 @@ menu:
   main:
     weight: 1
 ---
-We are Saskia, Sven and Lou, two people and a terrier who have set out to explore the world. We will travel around the world.
+We are Saskia, Sven and Lou, two people and a terrier who have set out to explore the world. We will travel around the world in an expedition mobile.

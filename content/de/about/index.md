@@ -6,4 +6,4 @@ menu:
   main:
     weight: 1
 ---
-Wir sind Saskia, Sven und Lou, zwei Menschen und ein Terrier, die sich auf den Weg gemacht haben, die Welt zu erkunden. Wir werden in einem um die Welt reisen.
+Wir sind Saskia, Sven und Lou, zwei Menschen und ein Terrier, die sich auf den Weg gemacht haben, die Welt zu erkunden. Wir werden in einem Expeditionsmobil um die Welt reisen.
