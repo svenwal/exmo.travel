@@ -15,10 +15,12 @@ enableRobotsTXT = true
     title = "exmo.travel"
     weight = 1
     contentDir = "content/de"
+    languageName = "🇩🇪"
   [languages.en]
     title = "exmo.travel"
     weight = 2
     contentDir = "content/en"
+    languageName = "🇬🇧"
     # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]

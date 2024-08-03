@@ -6,7 +6,7 @@ tags: ["Social"]
 title: "Neuer Name und es wird social"
 ---
 
-Nach etwas längerem Grübeln über den Namen dieses Blogs / unserer Social Media-Acounts haben wir uns entschieden, das Ganze unter dem Namen [exmo.travel](https://exmo.travel) zu vereinen.
+Nach etwas längerem Grübeln über den Namen dieses Blogs / unserer Social Media-Accounts haben wir uns entschieden, das Ganze unter dem Namen [exmo.travel](https://exmo.travel) zu vereinen.
 
 "Exmo" ist die Kurzfassung von "Expeditionsmobil" und "Travel" ist ja klar. Wir finden, das passt.
 
