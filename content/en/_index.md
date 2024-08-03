@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/abenteuer_allrad_lou.jpeg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to our travel blog. Here we share our travels, our adventures, and our stories. We hope you enjoy following along on our journey.
