@@ -1,5 +1,5 @@
 title = "Travel around the world"
-baseURL = "https://7-travel.de"
+baseURL = "https://exmo.travel"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -12,12 +12,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "7-travel.de"
+    title = "exmo.travel"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.de]
-    title = "7-travel.de"
+    title = "exmo.travel"
     weight = 2
     contentDir = "content/de"
 
@@ -37,5 +37,14 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-#name = "twitter"
-#url = "https://twitter.com/GoHugoIO"
+  name = "YouTube"
+  url = "https://www.youtube.com/@exmo-travel"
+[[params.ananke_socials]]
+  name = "Instagram"
+  url = "https://www.instagram.com/exmo.travel/"
+[[params.ananke_socials]]
+  name = "Mastodon"
+  url = "https://mastodon.cloud/@exmotravel"
+[[params.ananke_socials]]
+  name = "Facebook"
+  url = "https://www.facebook.com/people/Exmotravel/61563591726442/"
