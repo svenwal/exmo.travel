@@ -13,4 +13,3 @@ Altglienicker Ring 4
 
 sven@walther.world
 
-{{< form-contact action="https://example.com"  >}}
