@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-featured_image: ''
+featured_image: '/images/contact.jpeg'
 omit_header_text: true
 description: Kontakt
 type: page
