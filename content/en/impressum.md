@@ -4,7 +4,7 @@ featured_image: '/images/contact.jpeg'
 omit_header_text: true
 description: We'd love to hear from you
 type: page
-menu: main
+menu: footer
 
 ---
 # Legal Notice

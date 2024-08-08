@@ -4,7 +4,7 @@ featured_image: '/images/contact.jpeg'
 omit_header_text: true
 description: Kontakt
 type: page
-menu: main
+menu: footer
 
 ---
 Angaben gemäß § 5 DDG

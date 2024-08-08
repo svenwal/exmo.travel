@@ -4,7 +4,7 @@ featured_image: '/images/datenschutz.jpeg'
 omit_header_text: true
 description: Datenschutzerklärung
 type: page
-menu: main
+menu: footer
 
 ---
 
