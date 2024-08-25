@@ -35,10 +35,11 @@ enableRobotsTXT = true
   site_logo = "/images/exmo.travel-logo-white.png"
   description = "Travelling around the world"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-navy"
   recent_posts_number = 12
   mainSections = ["post"]
-  body_classes = "aller bg-near-white"
+  body_classes = "aller bg-solarized-light"
+  background_color_class = "bg-solarized-light"
+  footer_background_color_class = "bg-solarized-dark"
 
 [[params.ananke_socials]]
   name = "youtube"
