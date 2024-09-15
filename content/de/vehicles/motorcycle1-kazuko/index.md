@@ -1,6 +1,6 @@
 ---
 
-title: "和 Kazuko - unser erstes Motorrad"
+title: "和子 Kazuko - unser erstes Motorrad"
 featured_image: '/images/cfmoto-700clx.jpeg'
 weight: 2
 ---
