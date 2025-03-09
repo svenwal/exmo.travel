@@ -1,4 +1,4 @@
-image: hugomods/hugo:std-node-0.128.2
+image: hugomods/hugo:std-exts-0.128.2
 command: hugo
 public: public
 domains:
