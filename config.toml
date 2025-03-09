@@ -6,9 +6,11 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
+#Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+[pagination]
+  pagerSize = 12
 
 [languages]
   [languages.de]
