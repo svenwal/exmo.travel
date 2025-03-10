@@ -3,3 +3,4 @@ command: hugo
 public: public
 domains:
   - exmo.travel
+  - www.exmo.travel
