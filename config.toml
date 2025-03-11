@@ -45,15 +45,25 @@ enableRobotsTXT = true
   background_color_class = "bg-solarized-light"
   footer_background_color_class = "bg-solarized-dark"
 
-[[params.ananke_socials]]
+[params.ananke.social.follow]
+networks = [
+  "youtube",
+  "instagram",
+  "mastodon",
+  "facebook"
+]
+
+[params.ananke.social.facebook]
+  username = "exmo.travel"
+  profilelink = "https://www.facebook.com/people/Exmotravel/61563591726442/"
+
+[params.ananke.social.youtube]
   name = "youtube"
-  url = "https://www.youtube.com/@exmo-travel"
-[[params.ananke_socials]]
-  name = "instagram"
-  url = "https://www.instagram.com/exmo.travel/"
-[[params.ananke_socials]]
-  name = "mastodon"
-  url = "https://mastodon.cloud/@exmotravel"
-[[params.ananke_socials]]
-  name = "facebook"
-  url = "https://www.facebook.com/people/Exmotravel/61563591726442/"
+  username = "exmo-travel"
+  #url = "https://www.youtube.com/@exmo-travel"
+
+[params.ananke.social.instagram]
+  username = "exmo.travel"
+
+[params.ananke.social.mastodon]
+  profilelink = "https://mastodon.cloud/@exmotravel"
