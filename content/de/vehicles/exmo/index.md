@@ -1,6 +1,6 @@
 ---
 
-title: "Exmo - unser Expeditionsmobil"
+title: "🦣 Mammothon - unser Expeditionsmobil"
 featured_image: '/images/truck.jpeg'
 weight: 1
 ---
