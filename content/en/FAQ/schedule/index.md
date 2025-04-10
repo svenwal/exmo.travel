@@ -4,7 +4,7 @@ type: "page"
 featured_image: '/images/schedule.jpeg'
 ---
 
-We are currently still in the planning phase and, as of August 2024, we do not yet have a vehicle. Therefore, a precise schedule is not yet possible.
+We are currently still in the planning phase and, as of April 2025, we do not yet have a vehicle. Therefore, a precise schedule is not yet possible.
 
 However, it is possible to provide an overview of the steps already taken and planned:
 
@@ -13,21 +13,19 @@ However, it is possible to provide an overview of the steps already taken and pl
 * Extensive research
 * Various visits to trade shows and manufacturers
 * Class C driver's license
+* Class A driver's license
 * Finances settled
-* Motorcycle
+* Motorcycles
   * Purchase of the first motorcycle
+  Purchase of a second motorcycle
 * Initial equipment tests
   * Starlink
 
 ## In Progress
 
 * Vehicle selection
-* Motorcycle
-  * Class A driver's license
+* Vehicle purchase
 
 ## Planned
 
-* Vehicle purchase
-* Motorcycle
-  * Purchase of a second motorcycle
 * Start in Europe to "acclimatize"
