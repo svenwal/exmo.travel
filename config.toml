@@ -19,6 +19,8 @@ enableRobotsTXT = true
     contentDir = "content/de"
     languageName = "🇩🇪"
     languageCode = "de-DE"
+    [languages.de.params.ananke.social.rss]
+      profilelink = "/de/post/index.xml"
   [languages.en]
     title = "exmo.travel"
     weight = 2
@@ -26,6 +28,8 @@ enableRobotsTXT = true
     languageName = "🇬🇧"
     languageCode = "en-us"
     # languageDirection = 'rtl' for Right-To-Left languages
+    [languages.en.params.ananke.social.rss]
+      profilelink = "/en/post/index.xml"
 
 [sitemap]
   changefreq = "monthly"
@@ -50,7 +54,8 @@ networks = [
   "youtube",
   "instagram",
   "mastodon",
-  "facebook"
+  "facebook",
+  "rss"
 ]
 
 [params.ananke.social.facebook]
