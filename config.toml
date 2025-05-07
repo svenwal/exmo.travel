@@ -72,3 +72,6 @@ networks = [
 
 [params.ananke.social.mastodon]
   profilelink = "https://mastodon.cloud/@exmotravel"
+
+[markup.goldmark.renderer]
+  unsafe = true
