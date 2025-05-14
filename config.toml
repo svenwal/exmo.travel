@@ -20,7 +20,7 @@ enableRobotsTXT = true
     languageName = "🇩🇪"
     languageCode = "de-DE"
     [languages.de.params.ananke.social.rss]
-      profilelink = "/de/post/index.xml"
+      profilelink = "/post/index.xml"
   [languages.en]
     title = "exmo.travel"
     weight = 2

@@ -59,7 +59,7 @@ featured_image: '/images/social-icons/social-header.jpg'
   alt="RSS logo"
   height="100px"
   caption="Blog (RSS)<br />🇩🇪"
-  link="/de/post/index.xml"
+  link="/post/index.xml"
   class="ma0 w-75 tc"
 >}}
 
