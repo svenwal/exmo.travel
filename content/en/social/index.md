@@ -12,7 +12,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/instagram.svg"
   alt="Instagram logo"
-  caption="Instagram"
+  caption="Instagram 🇬🇧"
   link="https://www.instagram.com/exmo.travel/"
   class="ma0 w-75 tc"
 >}}
@@ -20,7 +20,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/youtube.svg"
   alt="Youtube logo"
-  caption="Youtube"
+  caption="Youtube<br />🇬🇧"
   link="https://www.youtube.com/@exmo-travel"
   class="ma0 w-75 tc"
 >}}
@@ -28,7 +28,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/mastodon.svg"
   alt="Mastodon logo"
-  caption="Mastodon"
+  caption="Mastodon<br />🇬🇧"
   link="https://mastodon.cloud/@exmotravel"
   class="ma0 w-75 tc"
 >}}
@@ -36,7 +36,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/pixelfed.svg"
   alt="Pixelfed logo"
-  caption="Pixelfed"
+  caption="Pixelfed<br />🇬🇧"
   link="https://pixelfed.de/exmo.travel"
   class="ma0 w-75 tc"
 >}}
@@ -44,7 +44,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/facebook.svg"
   alt="Facebook logo"
-  caption="Facebook"
+  caption="Facebook<br />🇩🇪"
   link="https://www.facebook.com/people/Exmotravel/61563591726442/"
   class="ma0 w-75 tc"
 >}}
@@ -52,8 +52,8 @@ featured_image: '/images/social-icons/social-header.jpg'
 {{< figure
   src="/images/social-icons/rss.svg"
   alt="RSS logo"
-  caption="Blog (RSS)"
-  link="http://localhost:1313/en/post/index.xml"
+  caption="Blog (RSS)<br />🇬🇧"
+  link="/en/post/index.xml"
   class="ma0 w-75 tc"
 >}}
 
