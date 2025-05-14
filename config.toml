@@ -40,7 +40,7 @@ enableRobotsTXT = true
   text_color = ""
   author = "Sven Walther"
   favicon = "/favicon.png"
-  site_logo = "/images/exmo.travel-logo-white.png"
+  site_logo = "/images/exmo.travel-logo-white-120px.png"
   description = "Travelling around the world"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   recent_posts_number = 12
