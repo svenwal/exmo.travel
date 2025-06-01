@@ -1,10 +1,14 @@
 ---
 
-title: "和子 Kazuko - our first motorcycle"
+title: "ARCHIVE 和子 Kazuko - our first motorcycle"
 featured_image: '/images/cfmoto-700clx.jpeg'
-weight: 2
+weight: 4
+summary: |
+    For our first motorcycle, we decided on a [CFMoto 700CL-X Adventure](https://cfmoto-motorcycle.eu/de/de/motorcycles/classic/700cl-x-adventure). We were looking for a relatively lightweight adventure bike with modern technology, moderate off-road capabilities, low seat height, suitable for the A license, and beginner-friendly.
 ---
 For our first motorcycle, we decided on a [CFMoto 700CL-X Adventure](https://cfmoto-motorcycle.eu/de/de/motorcycles/classic/700cl-x-adventure). We were looking for a relatively lightweight adventure bike with modern technology, moderate off-road capabilities, low seat height, suitable for the A license, and beginner-friendly.
+
+Unfortunately, "relatively light" was still too heavy for a 700cc machine, and Kazuko has since been replaced by [Herr Tur Tur](/en/vehicles/motorcycle3-herr-tur-tur/).
 
 ![CFMoto 700CL-X Adventure](/images/cfmoto-700clx.jpeg)
 

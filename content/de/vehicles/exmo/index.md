@@ -1,7 +1,7 @@
 ---
 
 title: "🦣 Mammothon - unser Expeditionsmobil"
-featured_image: '/images/truck.jpeg'
+featured_image: '/images/truck/mammothon_desert.jpeg'
 weight: 1
 ---
-Hier müsst Ihr (und auch wir) Euch noch gedulden - Entscheidung und Kauf sind noch nicht erledigt.
+Bald - sehr bald - werden wir unser Mammothon übernehmen und können dann mit Euch teilen, wir unser neues Heim aussieht.
