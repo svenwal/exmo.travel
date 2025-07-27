@@ -31,9 +31,7 @@ Our expedition vehicle is a [MAN TGS](https://www.man.eu/de/de/lkw/alle-modelle/
 
 ## Photos
 
-![At the house](/images/truck/AmHaus.jpeg)
-
-![In front of the house](/images/truck/VorHaus.jpeg)
+![Scheuring spot](/images/blog/2025-07-27/Scheuring-Stellplatz.jpeg)
 
 ![Side view](/images/truck/Seitensicht.jpeg)
 

@@ -31,9 +31,7 @@ Unser Expeditionsmobil ist ein [MAN TGS](https://www.man.eu/de/de/lkw/alle-model
 
 ## Fotos
 
-![Am Haus](/images/truck/AmHaus.jpeg)
-
-![Vor dem Haus](/images/truck/VorHaus.jpeg)
+![Scheuring spot](/images/blog/2025-07-27/Scheuring-Stellplatz.jpeg)
 
 ![Seite](/images/truck/Seitensicht.jpeg)
 

@@ -19,4 +19,4 @@ It then took a few more months until everything was organized and signed — but
 
 And as the one more thing, it arrived just in time for the [Abenteuer Allrad](https://www.abenteuer-allrad.de/) in Bad Kissingen, and we're already excited to finally be at the [Camp Area](https://www.abenteuer-allrad.de/camp-area) ourselves this year — feel free to stop by!
 
-You can find a few more specs and photos on the [dedicated Mammothon page](/en/vehicles/exmo/) — which will definitely be expanded in the coming weeks.
+You can find a few more specs and photos on the [dedicated Mammothon page](/enope/vehicles/exmo/) — which will definitely be expanded in the coming weeks.
