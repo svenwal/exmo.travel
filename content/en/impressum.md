@@ -12,8 +12,8 @@ menu: footer
 Information in accordance with § 5 DDG
 
 Sven Walther  
-Altglienicker Ring 4  
-15806 Zossen  
+Bodelschwinghstraße 21  
+15831 Mahlow 
 
 **Represented by:**  
 Sven Walther  
