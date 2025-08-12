@@ -1,31 +1,11 @@
 ---
+
 title: "Schedule"
 type: "page"
 featured_image: '/images/schedule.jpeg'
 ---
+Since June 2025, we have been on the road without a rigid schedule.
 
-We are currently still in the planning phase and, as of April 2025, we do not yet have a vehicle. Therefore, a precise schedule is not yet possible.
+It is certain that we will initially stay in Europe or the immediate vicinity (for logistical and other reasons), but after that, depending on the global political situation, we will travel to other continents.
 
-However, it is possible to provide an overview of the steps already taken and planned:
-
-## Completed
-
-* Extensive research
-* Various visits to trade shows and manufacturers
-* Class C driver's license
-* Class A driver's license
-* Finances settled
-* Motorcycles
-  * Purchase of the first motorcycle
-  Purchase of a second motorcycle
-* Initial equipment tests
-  * Starlink
-
-## In Progress
-
-* Vehicle selection
-* Vehicle purchase
-
-## Planned
-
-* Start in Europe to "acclimatize"
+We also don't want to be forced into a fixed routine - where we like it, we will stay longer - where we don't, we will leave more quickly.

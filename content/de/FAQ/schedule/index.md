@@ -4,28 +4,8 @@ title: "Zeitplan"
 type: "page"
 featured_image: '/images/schedule.jpeg'
 ---
-Aktuell sind wir noch in der finalen Planungsphase und haben Stand April 2025 auch noch kein Fahrzeug. Daher ist ein genauer Zeitplan noch nicht möglich.
+Seit Juni 2025 sind wir unterwegs ohne harten Zeitplan.
 
-Was aber schon möglich ist, ist eine Übersicht der schon erfolgten und geplanten Schritte:
+Fest steht, dass wir anfangs in Europa oder der näheren Umgebung bleiben (aus logistischen und anderen Gründen), hiernach aber je nach politischer Weltlage die anderen Kontinente bereisen werden.
 
-## Erledigt
-
-* Umfangreiche Recherche
-* Diverse Besuche bei Messen und Herstellern
-* Führerschein Klasse C
-* Führerschein Klasse A
-* Finanzen geklärt
-* Motorräder
-  * Kauf erstes Motorrad
-  * Kauf zweites Motorrad
-* Erste Tests von Ausrüstung
-  * Starlink
-
-## In Arbeit
-
-* Fahrzeugwahl
-* Fahrzeugkauf
-
-## Geplant
-
-* Start in Europa zum "Akklimatisieren"
+Wir wollen uns da auch nicht in ein festes Raster pressen - wo es uns gefällt, bleiben wir länger - wo nicht, da fahren wir schneller wieder weg.

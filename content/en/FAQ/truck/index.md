@@ -1,30 +1,30 @@
 ---
 
-title: "Truck"
+title: "The Vehicle"
 featured_image: '/images/truck.jpeg'
 ---
-When it comes to technology, many factors come into play. Let's start with the expedition vehicle itself:
+When it comes to the technical aspects, many factors play a role. Let's start with the expedition mobile itself:
 
 ## The Chassis
 
-Since we haven't purchased our vehicle yet, we can only outline our thoughts so far. It’s clear that we want to live in our vehicle for several years, so the living space should be sufficiently large. This quickly leads to the conclusion that it needs to be a "real truck" over 7.5 tons.
+When we bought our truck, our thought process was as follows: It was clear that we wanted to live in our vehicle for several years, so the living space had to be of a corresponding size. From this, it quickly became clear that it had to be a "real truck" over 7.5 tons.
 
-Moreover, the chassis needs to be robust and off-road capable, and repairs should be possible even in the most remote corners of the world. Based on these parameters, we have narrowed down the selection to a Mercedes Arocs or a MAN TGM/TGS.
+Furthermore, the chassis had to be robust and off-road capable, and a repair should be possible even in the most remote corners of the world. Based on these parameters, the selection was narrowed down to a Mercedes Arocs or MAN TGM/TGS.
 
-Regarding the question of new or used: We tend to lean towards new, as this would mean having comfort and technology up to the current standards, and previous owners haven't worn anything out yet. Of course, this comes with the disadvantages of price and more electronics. In the end, we might still opt for used if we find "the perfect vehicle" already fully equipped.
+Regarding the question of new or used: We initially tended towards new, as we would then have the latest in comfort and technology, and previous owners wouldn't have broken anything. Of course, this comes with the disadvantages of price and more electronics. In the end, however, it became a used one, as we found "the perfect mobile" already completely used.
 
 ## The Cabin
 
-The bigger, the more space. But also more costs, more overhang, or an additional axle. A tricky decision.
+The bigger, the more space. But also more costs, more overhang, or another axle. A difficult matter.
 
-Throughout the planning process, we have fluctuated between a length of about 6 meters on a 4x4 chassis or a 7-meter length on a 6x6 chassis.
+Throughout the entire planning process, we wavered between a length of around 6m on a 4x4 chassis or a 7m length on a 6x6 chassis.
 
-If money were no object (or we got really lucky on the used market), a 6x6 chassis with a 7-meter cabin would be the first choice. However, this would also entail higher running costs (ferries, tires, etc.), so it's questionable.
+If money were no object, a 6x6 chassis with a 7m cabin would have been the first choice. However, that comes with higher running costs (ferries, tires, ...) and also limited maneuverability.
 
-The layout and materials are crucial for us, as we plan to live in it for years, so it has to fit.
+What is essential for us is the layout and the materials - since we want to live in it for years, it has to be just right.
 
-## Gas or No Gas?
+## Gas or no gas?
 
-Short answer: no gas. Everything electric (with solar panels) and heating via diesel.
+Short answer: no gas. Everything is electric (with solar power) and heating is via diesel.
 
-Why no gas? It would need to be securely stored somewhere, secured or even emptied on ferries and such, and it simply increases complexity with another component.
+Why no gas? It would have to be stored securely somewhere, it would have to be secured or even emptied on ferries and the like, and it simply increases complexity with another component.
