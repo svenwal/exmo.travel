@@ -7,4 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/truck/mammothon_desert.jpeg'
 ---
+
+🇩🇪 🇦🇹 🇩🇪 🇳🇱 🇩🇪 🇧🇪 🇱🇺 🇩🇪
+
 Welcome to our travel blog. Here we share our travels, our adventures, and our stories. We hope you enjoy following along on our journey.
