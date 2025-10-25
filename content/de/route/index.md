@@ -7,11 +7,12 @@ menu:
   main:
     weight: 2
 ---
-> Aktuell sind wir in Deutschland und planen unsere Reise - sie hat also noch nicht begonnen!
 
 Das Ziel ist die Welt - wir wollen also nach Möglichkeit Europa, Asien, Amerika und Afrika bereisen. Wann wir wo sein werden, hängt dann auch immer von der aktuellen Situation in den dortigen Ländern ab. 
 
-Starten werden wir recht sicher quer durch Europa - langsam in bekanntem Umfeld eingewöhnen und alles testen, bevor es fernab von Werkstätten und einfachen Wegen weitergeht.
+Gestartet sind wir erstmal quer durch Europa - langsam in bekanntem Umfeld eingewöhnen und alles testen, bevor es fernab von Werkstätten und einfachen Wegen weitergeht. Ein paar erste Tage in Afrika erweitern den Radius über den Winter.
+
+Die Flaggen auf der [Homepage](/) geben Euch Hinweise, wo es langgeht - der [Blog](/post) ist immer ein paar Wochen hinterher...
 
 Afrika wollen wir nach Möglichkeit umrunden (Westküste runter, Ostküste wieder hoch) - so es denn die politische Lage zulässt.
 

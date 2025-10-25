@@ -6,11 +6,14 @@ menu:
   main:
     weight: 1
 ---
-> Currently we are in Germany and planning our trip - so it has not yet begun!
 
 The goal is the world - we want to travel Europe, Asia, America and Africa if possible. When we will be where depends on the current situation in the respective countries.
 
-We will most likely start by crossing Europe - slowly getting used to the known environment and testing everything before we go far away from workshops and easy roads.
+We started our journey by crossing Europe — taking it slow, getting used to life on the road, and testing everything while still in familiar surroundings.
+
+Before heading far away from workshops and easy roads, a few first days in Africa will expand our radius over the winter.
+
+The flags on [our homepage|(/en) will give you hints about where we’re heading — the [blog](/en/post) is always a few weeks behind…
 
 We want to circumnavigate Africa if possible (down the west coast, up the east coast) - if the political situation allows it.
 
