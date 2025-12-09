@@ -54,6 +54,8 @@ Angekommen und aufgebaut
 ![Trucks everywhere](/images/blog/2025-09-aachen-luxemburg/luxemburg-trucks.jpeg)
 Trucks everywhere
 
+{{< youtube DYTZECibwrA >}}
+
 Es gibt regen Informationsaustausch und einige technische Sessions
 
 ![Stuhlkreis um den Vortragenden MAN-Techniker](/images/blog/2025-09-aachen-luxemburg/luxemburg-stuhlkreis.jpeg)
@@ -67,7 +69,7 @@ Und mit einem echten Schweizer Raclette erleben wir auch kulinarisch einen absol
 ![Ein richtiges Raclette](/images/blog/2025-09-aachen-luxemburg/luxemburg-raclette.jpeg)
 Ein richtiges Raclette
 
-xxx Video
+{{< youtube 4NUUANfF088 >}}
 
 Der Zusammenhalt der Krugianer ist wirklich außerordentlich. Jemand hat eine Frage oder ein Problem? Die Antwort kommt immer schnell im Chat (oder halt hier in Luxemburg auch direkt).
 
@@ -81,4 +83,4 @@ Kleiner Fun-Fact: man merkt den franzöischen Einfluss, ein Baguette-Automat auf
 ![Automat für Baguettes](/images/blog/2025-09-aachen-luxemburg/luxemburg-baguette.jpeg)
 Automat für Baguettes
 
-Und bei der Abfahrt bekommen wir endlich mal die Gelegenheit, unser Mammothon mit voll beladen und mit allen Tanks grfüllt zu wiegen - es sind knapp 16t (und damit noch eine gute Tonne Luft bis zum erlaubten Maximum).
+Und bei der Abfahrt bekommen wir endlich mal die Gelegenheit, unser Mammothon voll beladen und mit allen Tanks gefüllt zu wiegen - es sind knapp 16t (und damit noch eine gute Tonne Luft bis zum erlaubten Maximum).
