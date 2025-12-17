@@ -1,4 +1,5 @@
 ---
+draft: true
 date: 2025-09-20T2:58:08-04:00
 description: "Wir atmen Geschichte an der Maginot-Linie und fahren durch den Schwarzwald Richung Allgäu"
 featured_image: "/images/blog/2025-09-maginot-schwarzwald/maginot-bunker-mit-mammothon.jpeg"

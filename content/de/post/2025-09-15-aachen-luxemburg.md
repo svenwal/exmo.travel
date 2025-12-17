@@ -1,5 +1,6 @@
 ---
 date: 2025-09-15T2:58:08-04:00
+draft: true
 description: "Wir treffen uns mit Krugianern, nachdem wir Aachen erkundet haben"
 featured_image: "/images/blog/2025-09-aachen-luxemburg/cover-luxemburg.jpeg"
 tags: ["truck", "travel", "luxemburg", "aachen", "expeditionsmobile"]
