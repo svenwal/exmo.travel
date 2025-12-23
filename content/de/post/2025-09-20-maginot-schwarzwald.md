@@ -1,19 +1,18 @@
 ---
-draft: true
 date: 2025-09-20T2:58:08-04:00
 description: "Wir atmen Geschichte an der Maginot-Linie und fahren durch den Schwarzwald Richung Allgäu"
 featured_image: "/images/blog/2025-09-maginot-schwarzwald/maginot-bunker-mit-mammothon.jpeg"
 tags: ["truck", "travel", "frankreich", "schwarzwald", "maginot", "fail"]
 title: "Maginot Linie 🇫🇷 und Schwarzwald"
 summary: |
-    Wir fahren durch Frankreich, halten am Überflutungssysstem der Maginot-Linie, besuchen eine Festung, qutschen uns im Schwarzwald durch eine enge Straße, besuchen Sigmaringen und Sven drückt den falschen Knopf...
+    Wir fahren durch Frankreich, halten am Überflutungssysstem der [Maginot-Linie](https://de.wikipedia.org/wiki/Maginot-Linie), besichtigen eine [Festung](https://de.wikipedia.org/wiki/Ouvrage_de_Schoenenbourg), qutschen uns im Schwarzwald durch eine enge Straße, besuchen Sigmaringen und Sven drückt den falschen Knopf...
 
     ![Quartier](/images/blog/2025-09-maginot-schwarzwald/maginot-quartier.jpeg)
     Quartier in der Festung
 ---
 ## Maginot Linie - Überflutungssystem
 
-Wir starten eine gesichtliche Exkursion und der erste Stopp auf dem Weg zur Festung Schoenenbourg ist ein Stellplatz an einem See. Stellt sich raus auch hier sind wir schon mitten in der Geschichte, denn dieser aufgestaute See ist bereits ein Bestandteil der Maginot-Linie. Hier sollte das Tal geflutet werden, wenn das deutsche Heer die Genze übertritt.
+Wir starten eine gesichtliche Exkursion und der erste Stopp auf dem Weg zur [Festung Schoenenbourg](https://de.wikipedia.org/wiki/Ouvrage_de_Schoenenbourg) ist ein Stellplatz an einem See. Stellt sich raus auch hier sind wir schon mitten in der Geschichte, denn dieser aufgestaute See ist bereits ein Bestandteil der [Maginot-Linie](https://de.wikipedia.org/wiki/Maginot-Linie). Hier sollte das Tal geflutet werden, wenn das deutsche Heer die Grenze übertritt.
 
 ![See für Überflutung](/images/blog/2025-09-maginot-schwarzwald/maginot-see.jpeg)
 See für Überflutung
@@ -32,7 +31,7 @@ Bunker am See
 
 ## Maginot Linie - Festung Schoenenbourg
 
-Weiter geht es zu einer der riesigen Festungen der Maginot-Linie. Die Festung Schoenenbourg wurde ausführlich restauriert und kann nun besichtigt werden. Es ist schon Wahnsinn, was Frankreich hier gebaut hat, um ein Bollwerk gegen Nazi-Deutschland zu haben. Man kann es auf Bildern nur teilweise einfangen, aber wir waren mehere Stunden unter Tage und sind einige Kilometer gelaufen - alles innerhalb einer einzigen Festung.
+Weiter geht es zu [einer der riesigen Festungen](https://de.wikipedia.org/wiki/Ouvrage_de_Schoenenbourg) der [Maginot-Linie](https://de.wikipedia.org/wiki/Maginot-Linie). Die [Festung Schoenenbourg](https://de.wikipedia.org/wiki/Ouvrage_de_Schoenenbourg) wurde ausführlich restauriert und kann nun besichtigt werden. Es ist schon Wahnsinn, was Frankreich hier gebaut hat, um ein Bollwerk gegen Nazi-Deutschland zu haben. Man kann es auf Bildern nur teilweise einfangen, aber wir waren mehere Stunden unter Tage und sind einige Kilometer gelaufen - alles innerhalb einer einzigen Festung.
 
 ![Wir parken direkt an der Festung](/images/blog/2025-09-maginot-schwarzwald/maginot-bunker-mit-mammothon.jpeg)
 Wir parken direkt an der Festung
@@ -98,7 +97,7 @@ Blick vom Aussichtsturm
 
 ## Schwarzwald und Sigmaringen
 
-Wieder zurück in Deutschland fahren wir nach (LKW-)Navi zu einem Stellplatz. Die Zufahrt ist abenteuerlich durch eine schmale und steile Altstadstraße. Wir lehnen zu beiden Seiten aus den Fenstern und quetschen uns knapp zwischen hier auch noch beidseitig parkeden Autos durch (trotz Parkverbot...). Ich lese nachher bei Park4Night, dass sich hier schon kleinere Mobile Schrammen eingefahren haben - wir nicht :)
+Wieder zurück in Deutschland fahren wir nach (LKW-)Navi zu einem Stellplatz. Die Zufahrt ist abenteuerlich durch eine schmale und steile Altstadstraße. Wir lehnen zu beiden Seiten aus den Fenstern und quetschen uns knapp zwischen (hier auch noch beidseitig) parkenden Autos durch (trotz Parkverbot...). Ich lese nachher bei [Park4Night](https://park4night.com/de/place/35422), dass sich hier schon kleinere Mobile Schrammen eingefahren haben - wir nicht :)
 
 ![Stellplatz](/images/blog/2025-09-maginot-schwarzwald/schwarzwald-stellplatz.jpeg)
 Stellplatz
@@ -106,23 +105,23 @@ Stellplatz
 ![Stellplatz](/images/blog/2025-09-maginot-schwarzwald/schwarzwald-stellplatz-aussicht.jpeg)
 Stellplatz
 
-Letzter Zwischenstopp vor einem neuerlichen Besuch im Allgäu ist Sigmaringen, wo wir die Altstadt und vor allem das Schloss besichtigen.
+Letzter Zwischenstopp vor einem neuerlichen Besuch im Allgäu ist [Sigmaringen](https://de.wikipedia.org/wiki/Sigmaringen), wo wir die Altstadt und vor allem das [Schloss](https://de.wikipedia.org/wiki/Schloss_Sigmaringen) besichtigen.
 
 ![Schloss](/images/blog/2025-09-maginot-schwarzwald/sigmaringen-schloss.jpeg)
-Schloss
+[Schloss](https://de.wikipedia.org/wiki/Schloss_Sigmaringen)
 
 ![Schloss](/images/blog/2025-09-maginot-schwarzwald/sigmaringen-schloss-2.jpeg)
-Schloss
+[Schloss](https://de.wikipedia.org/wiki/Schloss_Sigmaringen)
 
 ![Lou vor dem Schloss](/images/blog/2025-09-maginot-schwarzwald/sigmaringen-schloss-mit-lou.jpeg)
-Lou vor dem Schloss
+Lou vor dem [Schloss](https://de.wikipedia.org/wiki/Schloss_Sigmaringen)
 
 ![Rathaus](/images/blog/2025-09-maginot-schwarzwald/sigmaringen-rathaus.jpeg)
 Rathaus
 
 ## One more thing
 
-Auf den letzten Kilometern vor Kempten haben wir noch einen Zwischenstopp für einen Kundentermin (Online-Meeting) und während ich auf meinen Einsatz warte, klicke ich nebenher auf diesen nett aussehende "Update mich"-Knopf im Victron-VRM. Lasst es mich mit Stephans Worten sagen: "das war keine gute Idee"
+Auf den letzten Kilometern vor [Kempten](https://de.wikipedia.org/wiki/Kempten_(Allgäu)) haben wir noch einen Zwischenstopp für einen Kundentermin (Online-Meeting) und während ich auf meinen Einsatz warte, klicke ich nebenher auf diesen nett aussehende "Update mich"-Knopf im [Victron-VRM](https://www.victronenergy.com/panel-systems-remote-monitoring/vrm). Lasst es mich mit Stephans Worten sagen: "das war keine gute Idee"
 
 Der Wechelrichter ist danach außer Funktion (aber die PV funktioniert weiter, der Termin lief also ganz normal durch) - also kein Strom mehr aus den Batterien, keine 230V - nur noch der Strom, der gerade auf den Solarzellen anliegt...
 
