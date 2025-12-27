@@ -29,6 +29,10 @@ Unser Expeditionsmobil ist ein [MAN TGS](https://www.man.eu/de/de/lkw/alle-model
 | Maße | 2,50m x ~6m |
 | Ausstattung | Doppelbett, Küche, Sitzgruppe mit Ausziehtisch, Dusche, WC, Waschmaschine, .... |
 
+## Video
+
+{{< youtube iqaw46zRSYY >}}
+
 ## Fotos
 
 ![Scheuring spot](/images/blog/2025-07-27/Scheuring-Stellplatz.jpeg)

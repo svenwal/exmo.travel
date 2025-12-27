@@ -29,6 +29,10 @@ Our expedition vehicle is a [MAN TGS](https://www.man.eu/de/de/lkw/alle-modelle/
 | Dimensions | 2.50m x ~6m |
 | Features | Double bed, kitchen, seating area with extendable table, shower, toilet, washing machine, ... |
 
+## Video
+
+{{< youtube ynFWur0iCDM >}}
+
 ## Photos
 
 ![Scheuring spot](/images/blog/2025-07-27/Scheuring-Stellplatz.jpeg)
