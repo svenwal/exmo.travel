@@ -2,7 +2,7 @@ title = "Travel around the world"
 baseURL = "https://exmo.travel"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
-resourceDir = "../resources"
+resourceDir = "resources"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"

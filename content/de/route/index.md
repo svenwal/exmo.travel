@@ -5,7 +5,7 @@ featured_image: '/images/world.jpeg'
 type: page
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 Das Ziel ist die Welt - wir wollen also nach Möglichkeit Europa, Asien, Amerika und Afrika bereisen. Wann wir wo sein werden, hängt dann auch immer von der aktuellen Situation in den dortigen Ländern ab. 

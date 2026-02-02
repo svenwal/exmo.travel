@@ -4,7 +4,7 @@ description: "Where are we, where do we want to go?"
 featured_image: '/images/world.jpeg'
 menu:
   main:
-    weight: 1
+    weight: 3
 ---
 
 The goal is the world - we want to travel Europe, Asia, America and Africa if possible. When we will be where depends on the current situation in the respective countries.
