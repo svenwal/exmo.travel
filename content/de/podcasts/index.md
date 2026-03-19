@@ -26,7 +26,7 @@ Hier geht es zum Podcast: https://www.campingcaravanpodcast.de/2026/01/26/aus-ve
 
 ## Folge 85 - aus Versehen Offroad (2)
 
-Sven und Saksika berichten von dem Abenteuer Marokko: Abseits befestigter Straßen kämpften sie sich über steinige Pisten und durch staubige Landschaften, bis ein platter Reifen sie zu einem ungeplanten Stopp zwang. Mitten im Nirgendwo hieß es: Rad runter, Reifen wechseln – Teamwork, Improvisation und eine Portion Gelassenheit inklusive. Nach so viel Offroad-Action genossen sie einen längeren Aufenthalt in Portugal am Atlantik. Dort tauschten sie Wüstenstaub gegen Meeresrauschen, fanden ihren Rhythmus zwischen Arbeiten, Reisen und Ankommen und reflektierten, was das Leben im eigenen Expeditions-LKW wirklich bedeutet – Freiheit, Herausforderungen und das gute Gefühl, genau den richtigen Schritt gewagt zu haben.
+Sven und Saskia berichten von dem Abenteuer Marokko: Abseits befestigter Straßen kämpften sie sich über steinige Pisten und durch staubige Landschaften, bis ein platter Reifen sie zu einem ungeplanten Stopp zwang. Mitten im Nirgendwo hieß es: Rad runter, Reifen wechseln – Teamwork, Improvisation und eine Portion Gelassenheit inklusive. Nach so viel Offroad-Action genossen sie einen längeren Aufenthalt in Portugal am Atlantik. Dort tauschten sie Wüstenstaub gegen Meeresrauschen, fanden ihren Rhythmus zwischen Arbeiten, Reisen und Ankommen und reflektierten, was das Leben im eigenen Expeditions-LKW wirklich bedeutet – Freiheit, Herausforderungen und das gute Gefühl, genau den richtigen Schritt gewagt zu haben.
 
 <audio controls>
   <source src="https://folgen.campingcaravanpodcast.de/CCP_085.mp3" type="audio/mp3">
