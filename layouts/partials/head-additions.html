@@ -1,1 +1,12 @@
-<meta property="og:image" content="/images/truck/mammothon_desert.jpeg" />
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+{{ $og_image := "" }}
+{{ if $featured_image }}
+  {{ $og_image = $featured_image }}
+{{ else }}
+  {{ $og_image = "/images/truck/mammothon_desert.jpeg" }}
+{{ end }}
+{{- with $og_image -}}
+  <meta property="og:image" content="{{ . }}" />
+  <meta property="twitter:image" content="{{ . }}" />
+{{- end -}}
+<!-- <meta property="og:image" content="/images/truck/mammothon_desert.jpeg" /> -->
