@@ -9,3 +9,9 @@ cascade:
 🇩🇪 🇦🇹 🇩🇪 🇳🇱 🇩🇪 🇧🇪 🇱🇺 🇫🇷 🇩🇪 🇫🇷 🇪🇸 🇲🇦 🇪🇸 🇵🇹 🇪🇸 🇫🇷
 
 Willkommen zu unserem Blog zur Weltreise. Hier teilen wir unsere Reisen, unsere Abenteuer und unsere Geschichten. Wir freuen uns, wenn Ihr uns auf unserer Reise begleitet.
+
+## Hinweis
+
+Das Blog und auch YouTube sind hoffnungslos hinterher mit unserer Reise.
+
+[Instagram 🇬🇧](https://www.instagram.com/exmo.travel/) und [Facebook 🇩🇪](https://www.facebook.com/people/Exmotravel/61563591726442/) sind aktuell.

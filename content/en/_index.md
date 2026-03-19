@@ -11,3 +11,9 @@ cascade:
 🇩🇪 🇦🇹 🇩🇪 🇳🇱 🇩🇪 🇧🇪 🇱🇺 🇫🇷 🇩🇪 🇫🇷 🇪🇸 🇲🇦 🇪🇸 🇵🇹 🇪🇸 🇫🇷
 
 Welcome to our travel blog. Here we share our travels, our adventures, and our stories. We hope you enjoy following along on our journey.
+
+## Note
+
+The blog and YouTube are hopelessly behind on our journey.
+
+[Instagram 🇬🇧](https://www.instagram.com/exmo.travel/) and [Facebook 🇩🇪](https://www.facebook.com/people/Exmotravel/61563591726442/) are up to date.
