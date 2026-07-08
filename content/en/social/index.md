@@ -7,7 +7,7 @@ featured_image: '/images/social-icons/social-header.jpg'
 #    weight: 1
 ---
 
-<div style="display: flex; gap: 10px;">
+<div>
 
 {{< figure
   src="/images/social-icons/instagram.svg"
@@ -19,38 +19,30 @@ featured_image: '/images/social-icons/social-header.jpg'
 >}}
 
 {{< figure
+  src="/images/social-icons/facebook.svg"
+  alt="Facebook logo"
+  height="100px"
+  caption="Facebook 🇩🇪"
+  link="https://www.facebook.com/people/Exmotravel/61563591726442/"
+  class="ma0 w-75 tc"
+>}}
+
+{{< figure
   src="/images/social-icons/youtube.svg"
   alt="Youtube logo"
   height="100px"
-  caption="Youtube<br />🇬🇧"
+  caption="Youtube 🇬🇧"
   link="https://www.youtube.com/@exmo-travel"
   class="ma0 w-75 tc"
 >}}
 
-{{< figure
-  src="/images/social-icons/mastodon.svg"
-  alt="Mastodon logo"
-  height="100px"
-  caption="Mastodon<br />🇬🇧"
-  link="https://mastodon.cloud/@exmotravel"
-  class="ma0 w-75 tc"
->}}
 
 {{< figure
-  src="/images/social-icons/pixelfed.svg"
-  alt="Pixelfed logo"
+  src="/images/social-icons/polarsteps.svg"
+  alt="Polarsteps logo"
   height="100px"
-  caption="Pixelfed<br />🇬🇧"
-  link="https://pixelfed.de/exmo.travel"
-  class="ma0 w-75 tc"
->}}
-
-{{< figure
-  src="/images/social-icons/facebook.svg"
-  alt="Facebook logo"
-  height="100px"
-  caption="Facebook<br />🇩🇪"
-  link="https://www.facebook.com/people/Exmotravel/61563591726442/"
+  caption="Polarsteps 🇬🇧"
+  link="https://www.polarsteps.com/exmotravel"
   class="ma0 w-75 tc"
 >}}
 
@@ -58,7 +50,7 @@ featured_image: '/images/social-icons/social-header.jpg'
   src="/images/social-icons/rss.svg"
   alt="RSS logo"
   height="100px"
-  caption="Blog (RSS)<br />🇬🇧"
+  caption="Blog (RSS) 🇬🇧"
   link="/en/post/index.xml"
   class="ma0 w-75 tc"
 >}}
