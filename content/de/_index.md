@@ -7,7 +7,7 @@ cascade:
 ---
 
 Season 1: 🇩🇪🇦🇹🇩🇪🇳🇱🇩🇪🇧🇪🇱🇺🇫🇷🇩🇪🇫🇷🇪🇸🇲🇦🇪🇸🇵🇹🇪🇸🇫🇷🇨🇭🇦🇹🇩🇪🇦🇹🇩🇪
-<br />Season 2: 🇩🇪🇩🇰🇳🇴🇸🇪 ...
+<br />Season 2: 🇩🇪🇩🇰🇳🇴🇸🇪🇫🇮‚ ...
 
 Willkommen zu unserem Blog zur Weltreise. Hier teilen wir unsere Reisen, unsere Abenteuer und unsere Geschichten. Wir freuen uns, wenn Ihr uns auf unserer Reise begleitet.
 
