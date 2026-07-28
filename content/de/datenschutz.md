@@ -70,9 +70,9 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitg
 
 Sven Walther
 
-Altglienicker Ring 4
+Bodelschwinghstraße 21
 
-15806 Zossen
+15831 Mahlow
 
 Deutschland
 

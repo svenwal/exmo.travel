@@ -30,12 +30,7 @@ menu:
     class="fl w-20 "
     link="https://www.instagram.com/svenwal/"
   >}}
-  {{< figure
-    src="/images/social-icons/instagram.svg"
-    alt="Instagram od Sven"
-    class="fl w-20 "
-    link="https://www.instagram.com/svenwal/"
-  >}}
+
   </div>
 
   <div class="ma0 w-100">
@@ -47,14 +42,6 @@ menu:
   >}}
   </div>
 
-  <div class="ma0 w-100">
-  {{< figure
-    src="/images/profile/Manni.png"
-    alt="Profile picture of Manni"
-    caption="Manni"
-    class="ma0 w-75"
-  >}}
-  </div>
 </div>
 
-Wir sind Saskia, Sven, Lou und Manni zwei Menschen, ein Terrier und ein Mammut, die sich auf den Weg gemacht haben, die Welt zu erkunden. Wir werden in einem Expeditionsmobil um die Welt reisen.
+Wir sind Saskia, Sven und Lou - zwei Menschen und ein Terrier, die sich auf den Weg gemacht haben, die Welt zu erkunden. Wir werden in einem Expeditionsmobil um die Welt reisen.
