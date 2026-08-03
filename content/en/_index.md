@@ -9,7 +9,7 @@ cascade:
 ---
 
 Season 1: 🇩🇪🇦🇹🇩🇪🇳🇱🇩🇪🇧🇪🇱🇺🇫🇷🇩🇪🇫🇷🇪🇸🇲🇦🇪🇸🇵🇹🇪🇸🇫🇷🇨🇭🇦🇹🇩🇪🇦🇹🇩🇪
-<br />Season 2: 🇩🇪🇩🇰🇳🇴🇸🇪🇫🇮🇪🇪 ...
+<br />Season 2: 🇩🇪🇩🇰🇳🇴🇸🇪🇫🇮🇪🇪🇱🇻🇱🇹🇵🇱...
 
 Welcome to our travel blog. Here we share our travels, our adventures, and our stories. We hope you enjoy following along on our journey.
 
