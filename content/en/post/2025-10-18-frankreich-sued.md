@@ -64,6 +64,12 @@ It does turn out to be genuinely steep and tight in places, but we get through. 
   caption="Out in the Auvergne"
 >}}
 
+Back at Mammothon we are just in time for sunset - and it turns out we had claimed the best spot of all. Plenty of locals come up here specifically for this view.
+
+The full descent from the summit can be watched here:
+
+{{< youtube vJuekMA_snw >}}
+
 ## l'Aubrac
 
 Further south. First a short stop in Chaudes-Aigues for a work meeting, then on to Nasbinals. While I am still in calls, Saskia takes a long hike through the [Aubrac plateau](https://en.wikipedia.org/wiki/Aubrac).
@@ -119,6 +125,10 @@ Down in the gorge we find a pitch right on the [Tarn](https://en.wikipedia.org/w
 >}}
 
 In the evening we stop at the "Petit Paris", a small restaurant with great food and very warm hosts. We meet another travelling couple there - and talk until the restaurant closes.
+
+There is an uncut video from here as well:
+
+{{< youtube u7Bj2dEwvKM >}}
 
 {{< figure
   src="/images/blog/2025-10-frankreich-sued/tarn-03.jpeg"

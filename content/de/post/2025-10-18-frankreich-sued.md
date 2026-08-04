@@ -64,6 +64,12 @@ Es ist dann tatsächlich stellenweise richtig steil und schmal, aber wir kommen 
   caption="Unterwegs in der Auvergne"
 >}}
 
+Zurück bei Mammothon sind wir genau rechtzeitig zum Sonnenuntergang - und haben tatsächlich den besten Platz erwischt. Viele Einheimische kommen extra hierher, um genau diesen Blick zu haben.
+
+Die komplette Abfahrt vom Gipfel gibt es hier zu sehen:
+
+{{< youtube vJuekMA_snw >}}
+
 ## l'Aubrac
 
 Weiter Richtung Süden. Erst ein kurzer Stopp in Chaudes-Aigues für ein Arbeits-Meeting, dann weiter nach Nasbinals. Während ich noch Termine habe, macht Saskia eine lange Wanderung durch den [Naturpark l'Aubrac](https://de.wikipedia.org/wiki/Aubrac).
@@ -119,6 +125,10 @@ Unten in der Schlucht finden wir einen Stellplatz direkt am [Tarn](https://de.wi
 >}}
 
 Abends kehren wir im "Petit Paris" ein, einem kleinen Restaurant mit großartigem Essen und sehr herzlichen Gastgebern. Dort treffen wir ein anderes reisendes Paar - und reden, bis das Restaurant schließt.
+
+Ein ungeschnittenes Video von hier gibt es ebenfalls:
+
+{{< youtube u7Bj2dEwvKM >}}
 
 {{< figure
   src="/images/blog/2025-10-frankreich-sued/tarn-03.jpeg"
