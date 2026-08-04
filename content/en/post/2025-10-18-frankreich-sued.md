@@ -7,8 +7,8 @@ title: "Across Southern France 🇫🇷 - from Brenne to Carcassonne"
 summary: |
     We swap the bustle of Paris for a great deal of quiet, get warned by a local about a "narrow" road, relocate our pitch by WhatsApp, cross the highest bridge in Europe - and end up in a town we previously only knew as a board game...
 
-    ![Carcassonne](/images/blog/2025-10-frankreich-sued/carcassonne-01.jpeg)
-    Carcassonne, this time without the playing pieces
+    ![Lou on the plateau](/images/blog/2025-10-frankreich-sued/millau-lou-plateau.jpeg)
+    Lou inspects the plateau above Millau
 ---
 ## Brenne nature park
 
@@ -16,18 +16,27 @@ Out of the big-city bustle and into the quiet: after [Paris](https://en.wikipedi
 
 Our small campsite sits right next to a tiny but fantastic French restaurant - with genuinely warm people. These are exactly the encounters that make travelling off the usual routes worth it.
 
-![Brenne nature park](/images/blog/2025-10-frankreich-sued/brenne-01.jpeg)
-Brenne nature park
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/brenne-01.jpeg"
+  alt="Landscape in the Brenne nature park"
+  caption="Brenne nature park"
+>}}
 
 Naturally we also visit the nearby Château du Bouchet.
 
-![Inside the château](/images/blog/2025-10-frankreich-sued/brenne-chateau-innen.jpeg)
-Inside the Château du Bouchet
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/brenne-chateau-innen.jpeg"
+  alt="Historic room with blue walls and fleur-de-lis pattern inside the Château du Bouchet"
+  caption="Inside the Château du Bouchet"
+>}}
 
 After that we intended to go for "just a short walk". Thanks to hunting season, closed paths and a few detours it turned into a proper expedition. And for those looking closely: yes, I really did photograph the same tree twice.
 
-![Out walking](/images/blog/2025-10-frankreich-sued/brenne-02.jpeg)
-Out in the nature park
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/brenne-02.jpeg"
+  alt="Out walking in the Brenne nature park"
+  caption="Out in the nature park"
+>}}
 
 ## Volcans d'Auvergne
 
@@ -37,14 +46,23 @@ The very first bend on the way up has me thinking: "this could get tricky". Stee
 
 It does turn out to be genuinely steep and tight in places, but we get through. The main car park at the top is full, so we carry on a little further and find a small corner - with a considerably better view.
 
-![Volcans d'Auvergne](/images/blog/2025-10-frankreich-sued/auvergne-01.jpeg)
-Volcans d'Auvergne
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/auvergne-01.jpeg"
+  alt="Landscape in the Volcans d'Auvergne"
+  caption="Volcans d'Auvergne"
+>}}
 
-![On the mountain](/images/blog/2025-10-frankreich-sued/auvergne-gipfel.jpeg)
-The hike up the mountain is part of the deal
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/auvergne-gipfel.jpeg"
+  alt="Out on the mountain in the Auvergne"
+  caption="The hike up the mountain is part of the deal"
+>}}
 
-![The view](/images/blog/2025-10-frankreich-sued/auvergne-02.jpeg)
-Out in the Auvergne
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/auvergne-02.jpeg"
+  alt="View across the Auvergne"
+  caption="Out in the Auvergne"
+>}}
 
 ## l'Aubrac
 
@@ -52,16 +70,25 @@ Further south. First a short stop in Chaudes-Aigues for a work meeting, then on 
 
 The last meeting has barely finished when a WhatsApp arrives: Saskia has found an even nicer pitch. So we pack everything up again and drive a few kilometres further onto the plateau.
 
-![l'Aubrac](/images/blog/2025-10-frankreich-sued/aubrac-01.jpeg)
-Up on the plateau
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/aubrac-01.jpeg"
+  alt="Plateau landscape in the Aubrac"
+  caption="Up on the plateau"
+>}}
 
-![Church](/images/blog/2025-10-frankreich-sued/aubrac-kirche.jpeg)
-Out in the Aubrac
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/aubrac-kirche.jpeg"
+  alt="Stone village church with a tower in the Aubrac"
+  caption="Out in the Aubrac"
+>}}
 
 An insider tip for the area: there is a hidden waterfall here that you would never spot from the road.
 
-![Aubrac](/images/blog/2025-10-frankreich-sued/aubrac-02.jpeg)
-Aubrac
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/aubrac-02.jpeg"
+  alt="Landscape in the Aubrac"
+  caption="Aubrac"
+>}}
 
 Over dinner we get talking to other campers from northern Germany. And it turns out they know the [Camping Caravan Podcast](/en/podcasts/) - and are actually subscribers. Sometimes the world really is small.
 
@@ -71,21 +98,33 @@ The next stop is a genuinely spectacular place: the [Gorges du Tarn](https://en.
 
 Even the road there is a small adventure - winding, narrow, with breathtaking views and, in places, somewhat nerve-wracking for the passenger.
 
-![Gorges du Tarn](/images/blog/2025-10-frankreich-sued/tarn-01.jpeg)
-Gorges du Tarn
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/tarn-01.jpeg"
+  alt="View into the Tarn gorge"
+  caption="Gorges du Tarn"
+>}}
 
 Down in the gorge we find a pitch right on the [Tarn](https://en.wikipedia.org/wiki/Tarn_(river)), surrounded by the old town and steep rock faces. While I work, Saskia goes hiking - and here that is literally breathtaking, because it goes steeply uphill in every direction.
 
-![By the river](/images/blog/2025-10-frankreich-sued/tarn-02.jpeg)
-Our pitch right on the Tarn
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/tarn-02.jpeg"
+  alt="Our pitch right on the river Tarn"
+  caption="Our pitch right on the Tarn"
+>}}
 
-![Hiking](/images/blog/2025-10-frankreich-sued/tarn-wanderung.jpeg)
-It goes steeply upwards in every direction
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/tarn-wanderung.jpeg"
+  alt="Steep rock faces around the Tarn gorge"
+  caption="It goes steeply upwards in every direction"
+>}}
 
 In the evening we stop at the "Petit Paris", a small restaurant with great food and very warm hosts. We meet another travelling couple there - and talk until the restaurant closes.
 
-![Tarn](/images/blog/2025-10-frankreich-sued/tarn-03.jpeg)
-Gorges du Tarn
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/tarn-03.jpeg"
+  alt="Gorges du Tarn"
+  caption="Gorges du Tarn"
+>}}
 
 ## Millau
 
@@ -93,16 +132,25 @@ Do you know where the highest bridge in Europe stands? Right here - in [Millau](
 
 We cross it on our way to a small offroad tour and end up afterwards on a remote plateau - perfectly quiet, surrounded by nature.
 
-![On the plateau](/images/blog/2025-10-frankreich-sued/millau-lou-plateau.jpeg)
-Lou inspects the plateau
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/millau-lou-plateau.jpeg"
+  alt="Lou standing on rocks on the plateau with a rock pinnacle behind"
+  caption="Lou inspects the plateau"
+>}}
 
-![Plateau](/images/blog/2025-10-frankreich-sued/millau-plateau.jpeg)
-Alone up there for the evening
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/millau-plateau.jpeg"
+  alt="Remote plateau above Millau"
+  caption="Alone up there for the evening"
+>}}
 
 The next morning we head down into town, with a stop at a viewpoint of course. Our pitch is again right on the Tarn - though this time with plenty going on: roads closed, runners and spectators everywhere. As it turns out, we happen to be parked at the start of one of the region's biggest trail running festivals.
 
-![Millau](/images/blog/2025-10-frankreich-sued/millau-02.jpeg)
-Millau
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/millau-02.jpeg"
+  alt="Millau"
+  caption="Millau"
+>}}
 
 ## Carcassonne
 
@@ -110,18 +158,33 @@ Our final destination in France: [Carcassonne](https://en.wikipedia.org/wiki/Car
 
 We have played [the board game](https://en.wikipedia.org/wiki/Carcassonne_(board_game)) probably more than a thousand times, so at some point it was obvious: we have to see the real town. And what can we say - it is simply breathtaking.
 
-![Carcassonne](/images/blog/2025-10-frankreich-sued/carcassonne-02.jpeg)
-Carcassonne
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/carcassonne-01.jpeg"
+  alt="The walls and towers of the fortress of Carcassonne"
+  caption="Carcassonne, this time without the playing pieces"
+>}}
+
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/carcassonne-02.jpeg"
+  alt="Carcassonne"
+  caption="Carcassonne"
+>}}
 
 Our pitch is conveniently within walking distance. After the working day we head straight into town, and the first surprise is already waiting: a wine festival. We could hardly have timed it better.
 
-![Wine festival](/images/blog/2025-10-frankreich-sued/carcassonne-weinfest.jpeg)
-Straight into a wine festival by accident
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/carcassonne-weinfest.jpeg"
+  alt="Wine festival in Carcassonne"
+  caption="Straight into a wine festival by accident"
+>}}
 
 The next day leaves time to explore the old town properly. And yes - people really do still live inside the old castle walls.
 
-![In the old town](/images/blog/2025-10-frankreich-sued/carcassonne-03.jpeg)
-In the old town
+{{< figure
+  src="/images/blog/2025-10-frankreich-sued/carcassonne-03.jpeg"
+  alt="In the old town of Carcassonne"
+  caption="In the old town"
+>}}
 
 We had high expectations, and Carcassonne comfortably exceeded them. Photos can barely capture the atmosphere.
 
