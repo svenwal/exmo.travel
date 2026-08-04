@@ -1,0 +1,28 @@
+{
+  // Run with: npx markdownlint-cli2
+  "globs": ["content/**/*.md", "archetypes/**/*.md"],
+  "config": {
+    "default": true,
+
+    // Prose is authored one line per paragraph — no hard wrapping.
+    "MD013": false,
+
+    // Raw HTML is deliberate here (goldmark unsafe = true): <audio> blocks in
+    // podcasts, <div> wrappers on the social page.
+    "MD033": false,
+
+    // Bare URLs are used on purpose on the social/contact pages.
+    "MD034": false,
+
+    // Tables are not kept pipe-aligned.
+    "MD060": false,
+
+    // Body content starts at H2; the H1 comes from front-matter `title`.
+    "MD041": false,
+    "MD025": false,
+
+    // Hugo shortcodes and image captions produce sibling headings/emphasis
+    // patterns that these rules misread.
+    "MD036": false
+  }
+}
