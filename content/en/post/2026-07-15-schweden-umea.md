@@ -1,7 +1,7 @@
 ---
 date: 2026-07-15T2:58:08-04:00
 description: "From the mountainous west of Sweden via two stopovers in Fredrika and Tavelsjö all the way to the Gulf of Bothnia"
-featured_image: "/images/blog/2026-07-schweden-umea/fredrika-04.jpeg"
+featured_image: "/images/blog/2026-07-schweden-umea/tavelsjoe-07.jpeg"
 tags: ["truck", "travel", "sweden", "umea", "tavelsjo", "hiking"]
 title: "Sweden 🇸🇪 - to the Gulf of Bothnia"
 summary: |

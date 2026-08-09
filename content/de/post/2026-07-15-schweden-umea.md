@@ -1,7 +1,7 @@
 ---
 date: 2026-07-15T2:58:08-04:00
 description: "Vom bergigen Westen Schwedens mit zwei Zwischenstopps in Fredrika und Tavelsjö bis an den Bottnischen Meerbusen"
-featured_image: "/images/blog/2026-07-schweden-umea/fredrika-04.jpeg"
+featured_image: "/images/blog/2026-07-schweden-umea/tavelsjoe-07.jpeg"
 tags: ["truck", "travel", "schweden", "umea", "tavelsjoe", "wandern"]
 title: "Schweden 🇸🇪 - an den Bottnischen Meerbusen"
 summary: |
