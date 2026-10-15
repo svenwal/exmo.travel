@@ -3,7 +3,7 @@ title: "Wir reisen um die Welt"
 
 description: "Unsere Reisen, unsere Abenteuer, unsere Geschichten"
 cascade:
-  featured_image: '/images/truck/mammothon_desert.jpeg'
+  featured_image: '/images/truck/Sonnenuntergang_Greece.jpeg'
 ---
 
 Season 1: 🇩🇪🇦🇹🇩🇪🇳🇱🇩🇪🇧🇪🇱🇺🇫🇷🇩🇪🇫🇷🇪🇸🇲🇦🇪🇸🇵🇹🇪🇸🇫🇷🇨🇭🇦🇹🇩🇪🇦🇹🇩🇪

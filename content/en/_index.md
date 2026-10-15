@@ -5,7 +5,7 @@ description: "Our travel blog is a collection of stories, photos, and videos fro
 
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/truck/mammothon_desert.jpeg'
+  featured_image: '/images/truck/Sonnenuntergang_Greece.jpeg'
 ---
 
 Season 1: 🇩🇪🇦🇹🇩🇪🇳🇱🇩🇪🇧🇪🇱🇺🇫🇷🇩🇪🇫🇷🇪🇸🇲🇦🇪🇸🇵🇹🇪🇸🇫🇷🇨🇭🇦🇹🇩🇪🇦🇹🇩🇪
